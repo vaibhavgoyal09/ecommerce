@@ -1,0 +1,10 @@
+{
+  "name": "ecommerce",
+  "private": true,
+  "workspaces": [
+    "app/*"
+  ],
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
