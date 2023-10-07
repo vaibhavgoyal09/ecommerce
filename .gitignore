@@ -1,2 +1,4 @@
 node_modules
 /node_modules
+app/frontend/.next/
+app/frontend/node_modules
